@@ -15,7 +15,7 @@ I build and deploy LLM agents and RAG systems into production, focusing on what 
 * [Analyst SQL Agent](https://github.com/pierobruncoronado/analyst-sql-agent): Self-correcting LangGraph agent for business databases with strict read-only execution.
 * [Semantic LLM Gateway](https://github.com/pierobruncoronado/semantic-llm-gateway): Semantic caching gateway for LLM APIs using Upstash Vector to optimize latency and costs.
 
-📫 **Let's connect:** [Insert your LinkedIn URL here]
+📫 **Let's connect:** [https://www.linkedin.com/in/pierobruncoronado/]
 <!--
 **pierobruncoronado/pierobruncoronado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
